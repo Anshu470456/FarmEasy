@@ -1,7 +1,6 @@
 # FarmEasy: Empowering Farmers with Technology
 
-**Selected Theme:** Agro-Tech  
-**College:** NIT Kurukshetra  
+**Theme:** Agro-Tech  
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, React.js, Python, ML, Flask, MongoDB  
 **Note:** This repository contains only the frontend code. The backend is developed but not deployed on GitHub due to some issues.
 
